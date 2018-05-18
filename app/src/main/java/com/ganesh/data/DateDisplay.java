@@ -10,7 +10,7 @@ import android.widget.TextView;
 public class DateDisplay extends AppCompatActivity {
     TextView nalatime1,nalatime2,day,date,raguText,yemaText,disp;
     Button left,right;
-    String d,kil,hifi;
+    String d,kil,hifi,lola="faf";
     String nala,ragu,yama,marri,spl;
     int m,tempkila,temp; String month;
     String[] raghu={"16.30-18.00","07.30-09.00","15.00-16.30","12.00-13.30","13.30-15.00","10.30-12.00","09.00-10.30"};
